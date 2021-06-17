@@ -6,7 +6,9 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-
+    <!-- Generic CSS -->
+    <link href="https://vanessa0051.github.io/style.css">
+          
     <title>Hello, world!</title>
   </head>
   <body>
