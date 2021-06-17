@@ -1,0 +1,21 @@
+html,body{
+	margin:0;padding:0;
+	font-family:'Noto Sans TC', "Microsoft JhengHei", "微軟正黑體","Arial",Helvetica,sans-serif;
+	height:100%;
+	background-color:#FFF;
+	color:#000;
+	letter-spacing: .5px;
+}
+
+a{
+	cursor:pointer;
+	color:#35507f; 
+}
+a:hover{
+	filter: brightness(1.025);
+	
+}
+a:focus, a:hover {
+	text-decoration: none;
+	color:#35507f; 
+}
